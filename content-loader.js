@@ -26,8 +26,32 @@
             }
             
             try {
-                const response = await fetch(`content/${filename}`);
-                if (response.ok) {
+                // Primary attempt: fetch the file from the deployed site
+                let response;
+                try {
+                    response = await fetch(`content/${filename}`);
+                } catch (e) {
+                    // network error on primary host
+                    response = null;
+                }
+
+                // If primary fetch failed or returned non-ok, try raw.githubusercontent fallback
+                if (!response || !response.ok) {
+                    const rawUrl = `https://raw.githubusercontent.com/probablygrace/ebm-dashboard-reedlg-2025/master/content/${filename}`;
+                    try {
+                        const rawResp = await fetch(rawUrl);
+                        if (rawResp && rawResp.ok) {
+                            console.log(`ℹ️ Fallback: loaded ${filename} from raw.githubusercontent`);
+                            response = rawResp;
+                        } else {
+                            // keep response as-is (could be null or non-ok)
+                        }
+                    } catch (e) {
+                        // ignore fallback network errors and continue with original response
+                    }
+                }
+
+                if (response && response.ok) {
                     let content = await response.text();
                     
                     // Find the target container
@@ -70,8 +94,10 @@
                     } else if (isInitialLoad) {
                         console.log(`❌ No container found for ${filename}`);
                     }
-                } else if (response.status === 404 && isInitialLoad) {
+                } else if (response && response.status === 404 && isInitialLoad) {
                     console.log(`📝 File not found: ${filename} (create this file to see content)`);
+                } else if ((!response || !response.ok) && isInitialLoad) {
+                    console.log(`❌ Unable to load ${filename} from site or raw.githubusercontent`);
                 }
             } catch (error) {
                 if (isInitialLoad) {
