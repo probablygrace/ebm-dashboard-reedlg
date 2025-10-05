@@ -1,6 +1,3 @@
-RAHHHHHHHHHH
-
-
 # Problem Definition Framework
 
 ## X → Y Framework
