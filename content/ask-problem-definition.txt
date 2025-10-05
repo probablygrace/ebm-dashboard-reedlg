@@ -2,7 +2,7 @@
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
-M&A Culture Integration: The approach used to align organizational cultures during mergers and acquisitions (M&As), such as leadership communication and transparency, shared values workshops, and onboarding programs.
+M&A Culture Integration: The approaches used to align organizational cultures during mergers and acquisitions (M&As), such as leadership communication and formal meetings.
 
 ### Desired State (Y - What outcome do we want to achieve?)
 Positive Employee Perceptions: The measurable outcomes affected by cultural fragility during M&As, such as job satisfaction, organizational engagement and commitment, and perceived job security.
@@ -12,7 +12,7 @@ Positive Employee Perceptions: The measurable outcomes affected by cultural frag
 Employees in mid- to large-sized companies undergoing M&As.
 
 ### Intervention (What solution/action are we considering?)
-Cultural interation strategies, including leadership communication, shared values workshops, and onboarding programs.
+Cultural interation strategies, including leadership communication and formal meetings.
 
 ### Comparison (What alternatives exist?)
 No formal or planned cultural integration plan.
@@ -31,10 +31,10 @@ Company culture is susceptible to deterioration during mergers and acquisitions 
 A flawed integration of company cultures during M&As can lead to a dysfunctional, failed transition.
 
 ### Stakeholder Impact
-A flawed integration can lead to worsened business performance influenced by the dysfunctional work environment, impacting financial performance and the overall stability and profitability of the companies.
+A flawed integration can lead to worsened business performance influenced by the dysfunctional work environment, negatively impacting financial performance and the overall stability and profitability of the business(es).
 
 ### Strategic Alignment
-Successful cultural integration should be a top priority during M&As because it directly impacts company viability. It should not be assumed that the cultures will naturally integrate or that the cultures are "compatible enough" not to formalize an integration plan.
+Successful cultural integration should be a top priority during M&As because it directly impacts company viability. It should not be assumed that the cultures will naturally integrate or that the cultures are "compatible enough" not to need a formalized integration plan.
 
 ## Evidence Questions to Explore
 ### For the Problem (Step 2)
