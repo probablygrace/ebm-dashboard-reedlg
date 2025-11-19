@@ -5,18 +5,21 @@
 
 ### Senior Management
 - **Interest in Problem:** Misaligned culture causes turnover, delays integration, and weakens leadership credibility.
+- **Impact:** Senior management faces weakened credibility when turnover rises, because cultural misalignment signals poor leadership control.
 - **Interest in Solution:** Restores alignment, improves retention, and strengthens leadership reputation and strategic control.
 - **Influence Level:** High
 - **Support Level:** Likely supporter
 
 ### Middle Management
 - **Interest in Problem:** Conflicting messages and unclear expectations increase workload, reduce team cohesion, and damage trust.
+- **Impact:** Middle management experiences heavier workloads when conflicting messages persist, since unclear direction forces them to bridge gaps.
 - **Interest in Solution:** Gains clarity, team stability, and smoother execution of directives.
 - **Influence Level:** Medium
 - **Support Level:** Likely supporter
 
 ### Employees/Staff
 - **Interest in Problem:** Poor communication and cultural confusion lower morale, job security, and engagement.
+- **Impact:** Employees disengage when communication breaks down, because uncertainty erodes morale and perceived job security.
 - **Interest in Solution:** Gains clearer expectations, stronger sense of belonging, and improved job stability.
 - **Influence Level:** Medium
 - **Support Level:** Likely supporter
@@ -24,6 +27,7 @@
 ### Other Internal Groups
 
 - **Department/Group:** Human Resources
+- **Impact:** Human resources struggles with retention and onboarding when cultural shifts occur, as they must manage rising employee concerns.
 - **Interest in Problem:** Struggles with retention, onboarding, and managing employee concerns during cultural shifts.
 - **Interest in Solution:** Gains smoother onboarding process, better retention, and fewer employee relations issues.
 - **Influence Level:** High
@@ -33,24 +37,28 @@
 
 ### Customers/Clients
 - **Interest in Problem:** Service disruptions and staff turnover affect customer experience and trust.
+- **Impact:** Customers lose confidence when service disruptions occur, because staff instability directly affects their experience.
 - **Interest in Solution:** Consistent service, stronger brand confidence, and improved satisfaction.
 - **Influence Level:** Medium
 - **Support Level:** Likely supporter
 
 ### Suppliers/Partners
 - **Interest in Problem:** Unclear roles and instability post-M&A can delay decisions and strain relationships.
+- **Impact:** Suppliers encounter strained collaboration when roles are unclear, since instability delays decisions and weakens reliability.
 - **Interest in Solution:** Clearer communication, faster decisions, and more reliable collaboration.
 - **Influence Level:** Medium
 - **Support Level:** Likely supporter
 
 ### Regulatory Bodies
 - **Interest in Problem:** Poor culture integration during M&A can lead to inconsistent and overlapping policies, unclear guidelines and expectations, and compliance issues. This raises the risk of violating policies.
+- **Impact:** Regulatory bodies raise compliance concerns when policies are inconsistent, because unclear expectations increase the risk of violations.
 - **Interest in Solution:** Improved policy clarity and reduced compliance risk.
 - **Influence Level:** High
 - **Support Level:** Likely supporter
 
 ### Community/Society
 - **Interest in Problem:** Job loss, reduced community engagement, and public distrust in corporate behavior.
+- **Impact:** Community trust declines when job losses follow poor integration, since instability harms reputation and local engagement.
 - **Interest in Solution:** Job preservation and improved corporate reputation.
 - **Support Level:** Likely supporter
 

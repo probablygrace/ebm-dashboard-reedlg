@@ -2,7 +2,7 @@
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
-M&A Culture Integration: The approaches used to align organizational cultures during mergers and acquisitions (M&As), such as leadership communication and formal meetings.
+M&A Culture Integration: The approaches used to align organizational cultures during mergers and acquisitions (M&As), such as Town halls (monthly all hands with Q&A), Cascading messages (weekly leadership updates to direct reports), Skip-level meetings (quarterly CEO sessions with frontline), Leader training (4-hour culturalintegration workshop covering resistance management, uncertainty communication, values alignment messaging).
 
 ### Desired State (Y - What outcome do we want to achieve?)
 Positive Employee Perceptions: The measurable outcomes affected by cultural fragility during M&As, such as job satisfaction, organizational engagement and commitment, and perceived job security.
@@ -12,7 +12,7 @@ Positive Employee Perceptions: The measurable outcomes affected by cultural frag
 Employees in mid- to large-sized companies undergoing M&As.
 
 ### Intervention (What solution/action are we considering?)
-Cultural interation strategies, including leadership communication and formal meetings.
+Cultural interation strategies, including Town halls (monthly all hands with Q&A), Cascading messages (weekly leadership updates to direct reports), Skip-level meetings (quarterly CEO sessions with frontline), Leader training (4-hour culturalintegration workshop covering resistance management, uncertainty communication, values alignment messaging).
 
 ### Comparison (What alternatives exist?)
 No formal or planned cultural integration plan.
@@ -28,21 +28,10 @@ Company culture is susceptible to deterioration during mergers and acquisitions 
 
 ## Why This Problem Matters
 ### Impact on Organization
-A flawed integration of company cultures during M&As can lead to a dysfunctional, failed transition.
+Cultural integration during mergers and acquisitions should be a top priority for organizational stability and long-term success. Without a structured integration plan, indicators such as engagement, turnover, and satisfaction ratings risk worsening, creating further instability across the organization.
 
 ### Stakeholder Impact
 A flawed integration can lead to worsened business performance influenced by the dysfunctional work environment, negatively impacting financial performance and the overall stability and profitability of the business(es).
 
 ### Strategic Alignment
 Successful cultural integration should be a top priority during M&As because it directly impacts company viability. It should not be assumed that the cultures will naturally integrate or that the cultures are "compatible enough" not to need a formalized integration plan.
-
-## Evidence Questions to Explore
-### For the Problem (Step 2)
-- What evidence shows this problem exists?
-- How widespread is this problem?
-- What are the root causes?
-
-### For the Solution (Step 4)
-- What evidence supports our preferred solution?
-- Has this solution worked in similar contexts?
-- What are the potential risks and benefits?
