@@ -13,12 +13,12 @@ How do employees develop and maintain a positive work culture during M&As?
 ## Search Strategy
 
 ### Databases Searched
-- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
-- [ ] **Business Source Premier** [For business and management research] 
-- [ ] **Google Scholar** [For multidisciplinary academic content]
-- [ ] **JSTOR** [For established academic journals]
-- [ ] **SSRN** [For business and social science working papers]
-- [ ] **Other:** [List additional relevant databases]
+-**PubMed/MEDLINE** [For health/organizational behavior research]
+-**Business Source Premier** [For business and management research] 
+-**Google Scholar** [For multidisciplinary academic content]
+-**JSTOR** [For established academic journals]
+-**SSRN** [For business and social science working papers]
+-**Other:** [List additional relevant databases]
 
 ### Keywords and Search Terms
 
@@ -132,7 +132,6 @@ Context: Cultural compatibility, organizational identity
 
 **Management Problem:** Company culture often deteriorates during mergers and acquisitions (M&A), becoming more negative and fragile due to misaligned values, unclear communication, and employee uncertainty.
 
-
 **Research Question:** How do cultural integration strategies during company acquisitions affect employee engagement and organizational trust?
 
 **X Variable (Intervention):** Cultural integration or approach to align organizational cultures
@@ -216,11 +215,3 @@ Context: Cultural compatibility, organizational identity
 2. Include meta-analyses where available
 3. Apply additional filters as needed
 4. Document findings in evidence-scientific-sources.txt
-
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies
