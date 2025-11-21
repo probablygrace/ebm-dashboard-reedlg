@@ -4,8 +4,6 @@
 **Primary Goal:** Collect personal experiences from professionals working with M&As.
 **Secondary Goal:** Compare recommendations based off of personal experiences.
 
-## Target Practitioners
-
 ### Industry Experts
 **Target Profile:** HR Professionals and Consultants with experience in M&As
 - Years of experience desired: 15+ years
@@ -25,7 +23,7 @@
    - **Relevance:** 25+ years of experience with Johnson & Johnson, serving previously as the Vice President of Human Resources for 8.5 years during which she was involved in acquisitions
    - **Contact Method:** Published interview
 
-#### Company Examples
+### Case Studies
 1. **Microsoft & LinkedIn:**
 - **Information Sources:** 2016 and 2017 annual report and news articles
 

@@ -29,12 +29,44 @@
 ---
 
 ### Expert 2: [Name/Role]
-[Follow same structure as Expert 1]
+#### Professional Credibility
+- **Years of Relevant Experience:** [Number and assessment]
+- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
+- **Track Record:** [Documented successes/Mixed results/Limited evidence]
+- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+
+#### Expertise Assessment
+- **Direct Problem Experience:** [Extensive/Moderate/Limited]
+- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
+- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
+- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+
+#### Bias Assessment
+- **Financial Interests:** [Potential conflicts of interest?]
+- **Organizational Bias:** [Tied to specific approach/company?]
+- **Personal Investment:** [Emotionally invested in certain solutions?]
+- **Transparency:** [Open about limitations/Overly confident/Defensive]
 
 ---
 
 ### Expert 3: [Name/Role]
-[Follow same structure as Expert 1]
+#### Professional Credibility
+- **Years of Relevant Experience:** [Number and assessment]
+- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
+- **Track Record:** [Documented successes/Mixed results/Limited evidence]
+- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+
+#### Expertise Assessment
+- **Direct Problem Experience:** [Extensive/Moderate/Limited]
+- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
+- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
+- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+
+#### Bias Assessment
+- **Financial Interests:** [Potential conflicts of interest?]
+- **Organizational Bias:** [Tied to specific approach/company?]
+- **Personal Investment:** [Emotionally invested in certain solutions?]
+- **Transparency:** [Open about limitations/Overly confident/Defensive]
 
 ## Case Study Credibility
 
@@ -59,7 +91,22 @@
 ---
 
 ### Case Study 2: [Organization Name]
-[Follow same structure as Case Study 1]
+#### Source Credibility
+- **Information Source:** [Company publication/Academic case study/News report/Other]
+- **Source Reliability:** [Highly reliable/Moderately reliable/Limited reliability]
+- **Information Completeness:** [Comprehensive/Partial/Limited detail]
+- **Objectivity:** [Objective reporting/Some bias/Heavily biased]
+
+#### Context Relevance
+- **Industry Similarity:** [Same industry/Related industry/Different industry]
+- **Organizational Size:** [Similar size/Somewhat similar/Very different]
+- **Geographic Context:** [Same region/Similar region/Different region]
+- **Time Relevance:** [Recent/Somewhat recent/Dated]
+
+#### Outcome Verification
+- **Results Documentation:** [Well documented/Partially documented/Claims only]
+- **Independent Verification:** [Third-party confirmation/Self-reported only]
+- **Long-term Follow-up:** [Long-term results known/Short-term only]
 
 ## Evidence Quality Assessment
 
