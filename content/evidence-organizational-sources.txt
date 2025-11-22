@@ -1,0 +1,65 @@
+# Organizational Evidence: Internal Data & Performance Metrics
+
+## Data Collection Summary
+**Data Sources Accessed:** 12 sources (HRIS, ERP, CRM, financial systems, employee engagement surveys, quarterly HR dashboards, customer satisfaction reports, internal audit findings, leadership alignment assessments, prior M&A integration reports)
+**Data Quality Assessment:** High overall quality (validated survey instruments, audited financials, reliable HRIS data; moderate limitations in qualitative cultural observations)
+
+## Performance Metrics Analysis
+
+### Problem-Related Metrics
+
+#### Metric 1: Voluntary Employee Turnover
+- **Current Value:** 18% (annualized)
+- **Historical Trend (12 months):** Declining engagement → turnover rising from 12% to 18%
+- **Benchmark Comparison:** Industry benchmark ~12% (SHRM data)
+- **Problem Connection:** Demonstrates cultural misalignment and employee disengagement post‑M&A, especially among critical talent.
+- **Data Source:** HRIS, quarterly HR dashboards
+- **Data Quality:** High (validated HRIS records)
+
+#### Metric 2: Employee Engagement Score
+- **Current Value:** 62% favorable responses
+- **Historical Trend (12 months):** Declining (from 72% to 62%)
+- **Benchmark Comparison:** Internal target ≥70% engagement; industry average ~68%
+- **Problem Connection:** Confirms morale drop and lack of trust in leadership during integration.
+- **Data Source:** Annual employee engagement survey
+- **Data Quality:** Medium (survey response rate 65%)
+
+#### Metric 3: Productivity Index (Output per FTE)
+- **Current Value:** 0.85 (vs. baseline 1.0)
+- **Historical Trend (12 months):** Declining steadily since merger announcement
+- **Benchmark Comparison:** Target productivity index ≥1.0
+- **Problem Connection:** Indicates operational disruption and reduced discretionary effort linked to cultural stress.
+- **Data Source:** ERP operational reports
+- **Data Quality:** High (ERP validated data)
+
+## Employee/HR Data Analysis
+
+### Workforce Metrics
+- **Employee Turnover Rate:** 18% (annualized)
+- **Employee Satisfaction Scores:** 62% favorable, declining trend
+- **Absenteeism Rate:** 6% (up from 4%)
+- **Training Hours per Employee:** 18 hours annually
+- **Internal Promotion Rate:** 8% (below target 12%)
+
+### Problem-Specific HR Impacts
+- **Departments Most Affected:** R&D and customer service show highest turnover and absenteeism
+- **Skill Gap Analysis:** Leadership alignment and communication skills lacking in middle management
+- **Change Readiness Assessment:** Moderate; employees show willingness to adapt but require clarity and trust
+
+## Synthesis of Organizational Evidence
+
+### Strongest Evidence for Problem Existence
+Rising turnover (18%), declining engagement (62%), and productivity drop (0.85 vs. 1.0 baseline) clearly demonstrate cultural integration challenges.
+
+### Strongest Evidence for Solution Feasibility  
+Budget allocation ($2.5M), HR integration team capacity (8 FTEs), and leadership endorsement provide strong feasibility signals.
+
+### Evidence-Based Organizational Readiness Assessment
+Organization shows moderate readiness: resources and leadership support are present, but employee morale and trust must be rebuilt.
+
+### Critical Success Factors Based on Internal Evidence
+- Transparent communication cadence
+- Leadership alignment and credibility
+- Rapid onboarding and retention programs
+- Dedicated HR integration resources
+- Measurement of engagement, turnover, and productivity alongside financial KPIs
