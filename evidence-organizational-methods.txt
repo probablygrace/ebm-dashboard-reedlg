@@ -1,0 +1,65 @@
+# Organizational Evidence: Internal Data Collection Strategy
+
+## Internal Evidence Goals
+**Primary Goal:** Collect internal data on employee engagement, turnover, morale, and trust to confirm the extent of cultural integration challenges during M&A.
+**Secondary Goal:** Gather internal data on resource availability, leadership alignment, and HR program effectiveness to assess feasibility of proposed cultural integration solutions.
+
+## Available Data Sources
+
+### Performance Metrics/KPIs
+- **Financial Data:** Revenue growth, integration costs, profitability margins.
+- **Operational Data:** Productivity rates, project delivery timelines, error/quality metrics.
+- **Human Resources Data:** Voluntary turnover, absenteeism, employee satisfaction survey scores, performance review ratings.
+- **Customer Data:** Customer retention rates, Net Promoter Score (NPS), acquisition churn.
+- **Other Relevant Metrics:** Post‑integration synergy realization (cost savings, cross‑selling rates).
+
+### Internal Systems
+- **CRM Systems:** Customer churn, retention, and satisfaction data.
+- **ERP Systems:** Operational efficiency, supply chain integration metrics.
+- **HR Information Systems:** Employee demographics, turnover, engagement survey results, performance ratings.
+- **Financial Systems:** Accounting data, integration costs, profitability.
+- **Operations Systems:** Service delivery times, production efficiency, error rates.
+
+### Reports and Documentation
+- **Regular Reports:** Monthly HR dashboards, quarterly financial reports, annual performance reviews.
+- **Survey Results:** Employee engagement surveys, customer satisfaction surveys, stakeholder feedback.
+- **Audit Results:** Internal audits of HR processes, external compliance audits.
+- **Assessment Reports:** Leadership alignment assessments, cultural due diligence reports.
+- **Historical Studies:** Past M&A integration reports, lessons learned documentation.
+
+## Data Collection Plan
+
+### Quantitative Data Collection
+#### Metrics to Collect
+
+**Problem-Related Metrics:**
+- Metric 1: Voluntary turnover rate – Current value: 18% – Data source: HRIS.
+- Metric 2: Employee engagement score – Current value: 62% – Data source: annual employee survey.
+- Metric 3: Productivity index (output per FTE) – Current value: 0.85 vs. baseline 1.0 – Data source: ERP/operations reports.
+
+**Solution-Related Metrics:**
+- Metric 1: Retention of critical talent – Baseline: 80% – Data source: HRIS talent tracking.
+- Metric 2: Leadership alignment score (survey) – Baseline: 65% – Data source: leadership assessment reports.
+- Metric 3: Communication effectiveness (survey response clarity) – Baseline: 60% – Data source: pulse surveys.
+
+#### Time Period Analysis
+- **Historical Data Range:** Past 3–5 years of HR and financial data.
+- **Trend Analysis Period:** Quarterly trends during integration phases.
+- **Seasonal Considerations:** Account for annual turnover spikes (e.g., post‑bonus cycles).
+- **Baseline Period:** Pre‑M&A year as “normal” operations baseline.
+
+### Qualitative Data Collection
+#### Internal Documents Review
+- **Policy Documents:** HR integration policies, onboarding procedures, retention program guidelines.
+- **Meeting Minutes:** Leadership integration meetings, HR steering committee notes.
+- **Communication Records:** Internal memos, CEO announcements, HR newsletters.
+- **Project Reports:** Previous integration project outcomes, lessons learned.
+
+#### Observational Data
+- **Process Observations:** Onboarding workflows, leadership communication cadence.
+- **Workflow Analysis:** How integration tasks are executed across teams.
+- **Communication Patterns:** Frequency and clarity of updates across levels.
+- **Cultural Observations:** Employee sentiment, informal resistance behaviors, morale indicators.
+
+### Simplified Analysis
+Turnover, engagement, productivity trends.
