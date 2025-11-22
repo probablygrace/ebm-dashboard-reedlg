@@ -2,8 +2,8 @@
 # Evaluate the trustworthiness and applicability of practitioner insights
 
 ## Overall Credibility Assessment
-**Overall Rating:** [High/Medium/Low]
-**Confidence in Recommendations:** [High/Medium/Low]
+**Overall Rating:** High
+**Confidence in Recommendations:** High
 
 ## Individual Practitioner Credibility
 
